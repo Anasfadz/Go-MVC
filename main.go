@@ -2,7 +2,7 @@ package main
 
 import (
     "net/http"
-    "github.com/Anas/Go-MVC/controllers"
+    "go-mvc/controllers"
 )
 
 func main() {
